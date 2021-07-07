@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Swastik00
+- 👀 I’m interested in JAVA, PYTHON, C, C++, WEB DEVELOPMENT.
+- 🌱 I’m currently learning JAVA & PYTHON
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ... IDK
