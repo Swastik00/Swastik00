@@ -11,7 +11,7 @@ I am a passionate 1st Year B.Tech CSE student at KIIT Bhubaneswar, driven by a c
 - 🌐 Proud member of the [Hackernoon Blogging Fellowship](https://hackernoon.com/), contributing to the tech community. -->
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,py,tauri,md,windows,vscode,git,github,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,py,c,java,md,windows,vscode,git,github,bash)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
@@ -23,15 +23,20 @@ I am a passionate 1st Year B.Tech CSE student at KIIT Bhubaneswar, driven by a c
   <!-- - Building server-side applications with Django, a powerful Python web framework.
   - Diving into PostgreSQL for efficient and scalable database management. -->
 
-## 🏆 Achievements
+## 🏆 Badges
 
 <!-- 🌟 Completed Hacktoberfest 2023 - Contributed to open source projects and celebrated the spirit of collaboration. -->
-
 [![An image of @swastikapk's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/swastikapk)](https://holopin.io/@swastikapk)
+
+## Achievements
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=swastik-apk)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 📬 Get in Touch
 
-- Connect with me on [Twitter](https://twitter.com/swastik_apk) [LinkedIn](https://www.linkedin.com/in/swastik-bandyopadhyay-a31751311/)
+- Connect with me on
+  <a href="https://instagram.com/swastik.apk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jatinchaudhary224" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/swastik-bandyopadhyay-a31751311/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jatin chaudhary" height="30" width="40" /></a>
 <!-- - Read more of my articles on [theenthusiast.dev](https://theenthusiast.dev) -->
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
